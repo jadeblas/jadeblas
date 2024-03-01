@@ -1,4 +1,5 @@
-<h1>Hi, I'm Jade, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1 align="center">Hi there my name is <i><a href= "https://www.linkedin.com/in/jadeblas/">Jade</a></i></h1>
+I like long nights on my computer and learning new tech skills so that some day I can be as cool as "the guy in the chair."
 
 <h2>👨‍💻 Information Technology Projects:</h2> 
 
