@@ -1,5 +1,5 @@
-<h1 align="center">Hi there my name is <i><a href= "https://www.linkedin.com/in/jadeblas/">Jade</a></i></h1>
-I like long nights on my computer and learning new tech skills so that some day I can be as cool as "the guy in the chair."
+<h1 align="center">Hi there my name is <i><a href= "https://www.linkedin.com/in/jade-blas-4751472b8/">Jade</a></i></h1>
+I like long nights on my computer and learning new tech skills so that some day I can be as cool as "the guy in the chair." Looking forward to establishing a strong foundation in Information Technology to set the building blocks for a future career in <b>Cloud Engineering</b>.
 
 <h2>👨‍💻 Information Technology Projects:</h2> 
 
